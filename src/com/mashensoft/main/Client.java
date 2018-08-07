@@ -6,7 +6,11 @@ import java.net.Socket;
 import java.util.Scanner;
 
 import com.mashensoft.thread.ClientThreadSocketInputStream;
-
+/**
+ * 客户端类
+ * @author zongx
+ *
+ */
 public class Client {
 	public static void main(String[] args) {
 		System.out.println("客户端已启动");
